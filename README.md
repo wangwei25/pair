@@ -1,2 +1,2 @@
-# pair-
+# pair
 Pair Extraordinaire
